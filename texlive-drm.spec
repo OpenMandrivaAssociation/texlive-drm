@@ -1,6 +1,6 @@
 Name:		texlive-drm
 Version:	38157
-Release:	1
+Release:	2
 Summary:	A complete family of fonts written in Metafont
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/drm
